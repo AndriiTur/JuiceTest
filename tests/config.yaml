@@ -1,0 +1,10 @@
+user_data:
+  user_name_valid: 'andrii.t@gmail.com'
+  password_valid: '1011true'
+  user_name_unvalid: 'andrii@gmail.com'
+  password_unvalid: '1011'
+test_data:
+  search_1: 'Apple'
+  search_2: 'Carrot'
+run_options:
+  demo: True
